@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m a student
 -------------
 
-I've been learning coding for less than 1 year, I continue to explore coding especially in the backend field using javascript programming language and nodejs and hapi frameworks at @dicodingacademy.
+I've been learning coding for less than 1 year, I continue to explore coding especially in the backend field using javascript programming language and nodejs and hapi frameworks at [@dicodingacademy](https://github.com/dicodingacademy).
 
 * 🌍  I'm based in Bekasi
 * ✉️  You can contact me at [hanifmutaz@gmail.com](mailto:hanifmutaz@gmail.com)
